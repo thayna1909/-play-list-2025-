@@ -1,1 +1,6 @@
-
+body {
+    color:white;
+    backgroud-color:black;
+    font-family:"roboto condensed",
+    sans-serif;
+}
